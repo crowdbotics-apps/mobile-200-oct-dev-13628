@@ -36,5 +36,6 @@ const styles = StyleSheet.create({
 
   View_1: {},
   Image_2: { width: 192 },
+  View_1: {},
   View_1: {}
 })
